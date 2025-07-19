@@ -1,0 +1,38 @@
+# Jupyter Notebook Cache
+**/.ipynb_checkpoints/
+
+# Python Cache
+**/__pycache__/
+
+# VS Code Config
+.vscode/
+
+# data 
+
+# logs
+**/log_dir/
+**/AutogluonModels/
+**/logs/
+**/statistics/
+**/figures/
+**/results/
+
+# model
+**/*.bin
+**/*.pth
+
+# specific files
+pipeline/
+tool/Data-Process/embedding/
+code/comments.txt
+code/NetMamba/mamba/
+tool/
+process_data/per-flow-split/flow_classification/split_based_flow_etbert.ipynb
+
+# cuda for mamba
+code/NetMamba/cuda/
+
+# build file for netFound
+code/netFound/src/pre_process/packets_processing_src/build
+
+
