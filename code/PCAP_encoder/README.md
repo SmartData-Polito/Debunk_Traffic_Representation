@@ -16,6 +16,11 @@ The repository is organized into five main directories:
 - **Training**: Contains the main.py code to run the question-answering, denoiser, and classification fine-tuning.
 - **Preprocess**: Offers utilities for converting raw PCAP files into structured datasets suitable for PCAPencoder.
 
+## Install
+```
+conda create -n <env> -f environment.yml
+```
+
 ## We provide the shell file to run the experiments directly, please check the folder
 
 ## Citation

@@ -17,3 +17,8 @@ There are three ways to process the data
 - install: [AutoGluon](https://auto.gluon.ai/stable/install.html)
 - autogluon.ipynb: Training and Evaluation
 - check_model.ipynb: Get feature importance based on sklearn module
+
+## Install
+```
+conda create -n <env> -f environment.yml
+```
