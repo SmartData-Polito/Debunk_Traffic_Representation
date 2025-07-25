@@ -27,7 +27,7 @@ The `process_finetune_data` folder includes the following data preprocessing met
 - **Filter**: How to filter the unrelevant protocal packets
 - **Data processing** (pkt/flow) of different models
 
-
+Data is available on [HuggingFace](https://huggingface.co/datasets/rigcor7/Debunk_Traffic_Representation)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
